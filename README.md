@@ -68,15 +68,15 @@ This repository contains practical outputs for Java assignments across various t
 
 ### 4A - Basic Swing App
 
-- [Hello Swing](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP4-Swing1/SwingApp.png)
+- [Hello Swing](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP4-Swing1/SwingApp.png)
 
 ### 4B - Button Example
 
-- [Country Button](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP4-Swing1/CountryPress.png)
+- [Country Button](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP4-Swing1/CountryPress.png)
 
 ### 4C - Image Clock
 
-- [Digital Clock](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP4-Swing1/DigitalClock.png)
+- [Digital Clock](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP4-Swing1/DigitalClock.png)
 
 ---
 
@@ -84,54 +84,54 @@ This repository contains practical outputs for Java assignments across various t
 
 ### 5A - Country List (Console)
 
-- [Country List Console](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP5-Swing2/CountryListConsole.png)
+- [Country List Console](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP5-Swing2/CountryListConsole.png)
 
 ### 5B - Tabbed Pane with Colors
 
-- [Color Tabbed Pane](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP5-Swing2/ColorTabbedPane.png)
+- [Color Tabbed Pane](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP5-Swing2/ColorTabbedPane.png)
 
 ### 5C - Country Capital List
 
-- [Country-Capital List](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP5-Swing2/CountryList.png)
+- [Country-Capital List](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP5-Swing2/CountryList.png)
 
 ### 5D - Tabbed Pane Demo
 
-- [Tabbed Pane](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP5-Swing2/TabbedPane.png)
+- [Tabbed Pane](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP5-Swing2/TabbedPane.png)
 
 ---
 
 ## 🔹 EXP 6: Servlets
 
-- [6A: Factorial Servlet](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP6-Servelets/Factorial.png)
-- [6B: Cookie Form](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP6-Servelets/Cookie.png)
-- [6C: Prime Number Check](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP6-Servelets/Prime.png)
+- [6A: Factorial Servlet](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP6-Servelets/Factorial.png)
+- [6B: Cookie Form](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP6-Servelets/Cookiee.png)
+- [6C: Prime Number Check](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP6-Servelets/Prime.png)
 
 ---
 
 ## 🔹 EXP 7: JSP
 
-- [7A: Session Management](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP7-JSP/Session.png)
-- [7B: Cookie Management](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP7-JSP/Cookie.png)
+- [7A: Session Management](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP7-JSP/Session.png)
+- [7B: Cookie Management](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP7-JSP/Cookie.png)
 
 ---
 
 ## 🔹 EXP 8: JDBC - Part 1
 
-- [8A: Insert Coffee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP8-JDBC1/8a.png)
-- [8B: Update Coffee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP8-JDBC1/8b.png)
-- [8C: Input Employee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP8-JDBC1/8c.png)
-- [8D: Update Employee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP8-JDBC1/8d.png)
+- [8A: Insert Coffee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP8-JDBC1/8a.png)
+- [8B: Update Coffee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP8-JDBC1/8b.png)
+- [8C: Input Employee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP8-JDBC1/8c.png)
+- [8D: Update Employee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP8-JDBC1/8d.png)
 
 ---
 
 ## 🔹 EXP 9: JDBC - Part 2
 
-- [9A: Delete Coffee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9A.png)
-- [9B: View Coffee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9B.png)
-- [9C: Report Employees](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9C1.png)  
-  [View Part 2](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9C2.png)
-- [9D: Delete Specific Employee](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9D1.png)  
-  [Part 2](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9D2.png)  
-  [Part 3](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP9-JDBC2/9D3.png)
+- [9A: Delete Coffee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9A.png)
+- [9B: View Coffee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9B.png)
+- [9C: Report Employees](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9C1.png)  
+  [View Part 2](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9C2.png)
+- [9D: Delete Specific Employee](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9D1.png)  
+  [Part 2](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9D2.png)  
+  [Part 3](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP9-JDBC2/9D3.png)
 
 ---
