@@ -24,7 +24,7 @@ public class CheckNumericString {
 
     public static void main(String[] args) {
         String str1 = "12345895";
-        String str2 = "Sumanth L";
+        String str2 = "Shreyas P";
         System.out.println(str1 + "' is numeric: " + isNumeric(str1));
         System.out.println(str2 + "' is numeric: " + isNumeric(str2));
     }
