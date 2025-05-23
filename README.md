@@ -8,22 +8,22 @@ This repository contains practical outputs for Java assignments across various t
 
 ### 1A - List Operations
 
-- [ListInterfaceDemo](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1A-ListInterfaceDemo/ListInterfaceDemo.png)
+- [ListInterfaceDemo](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1A-ListInterfaceDemo/ListInterfaceDemo.png)
 
 ### 1B - ArrayList Operations
 
-- [Q1: Color Check](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1B-ArrayList/colors.png)
-- [Q2: Color Remove](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1B-ArrayList/ColorsRemove.png)
-- [Q4: Sort Colors](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1B-ArrayList/SortColors.png)
-- [Q5: SubList](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1B-ArrayList/SubList.png)
-- [Q6: Remove By Index](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1B-ArrayList/RemoveByIndex.png)
+- [Q1: Color Check](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1B-ArrayList/colors.png)
+- [Q2: Color Remove](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1B-ArrayList/ColorsRemove.png)
+- [Q4: Sort Colors](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1B-ArrayList/SortColors.png)
+- [Q5: SubList](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1B-ArrayList/SubList.png)
+- [Q6: Remove By Index](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1B-ArrayList/RemoveByIndex.png)
 
 ### 1C - LinkedList Operations
 
-- [Q1: Iterate from Specified Position](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1C-LinkedList/IterateFromSpecifiedPosition.png)
-- [Q2: Reverse Iterate](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1C-LinkedList/ReverseIterate.png)
-- [Q3: Insert at End](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1C-LinkedList/InsertAtEndLinkedList.png)
-- [Q4: Display Element by Position](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP1-ListInterface/1C-LinkedList/DisplayPositionLinkedList.png)
+- [Q1: Iterate from Specified Position](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1C-LinkedList/IterateFromSpecifiedPosition.png)
+- [Q2: Reverse Iterate](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1C-LinkedList/ReverseIterate.png)
+- [Q3: Insert at End](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1C-LinkedList/InsertAtEndLinkedList.png)
+- [Q4: Display Element by Position](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP1-ListInterface/1C-LinkedList/DisplayPositionLinkedList.png)
 
 ---
 
