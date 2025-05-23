@@ -31,11 +31,11 @@ This repository contains practical outputs for Java assignments across various t
 
 ### 2A - String Operations
 
-- [String Operation Demo](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP2-StringHandling/2A-StringOperations/StringOperationDemo.png)
+- [String Operation Demo](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP2-StringHandling/2A-StringOperations/StringOperationDemo.png)
 
 ### 2B - String Performance
 
-- [Performance Testing](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP2-StringHandling/2B-PerformanceString/Performancedemo.png)
+- [Performance Testing](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP2-StringHandling/2B-PerformanceString/Performancedemo.png)
 
 ---
 
