@@ -43,24 +43,24 @@ This repository contains practical outputs for Java assignments across various t
 
 ### 3A - String Operations Demo
 
-- [String OP1](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3A-Stringoperations/StringOP1.png)
-- [String OP2](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3A-Stringoperations/StringOP2.png)
+- [String OP1](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3A-Stringoperations/StringOP1.png)
+- [String OP2](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3A-Stringoperations/StringOP2.png)
 
 ### 3B - String Utility Methods
 
-- [Q1: isNullOrEmpty](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3B-StringOperation/NullOrEmpty.png)
-- [Q2: Count Occurrences](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3B-StringOperation/CountWordsInString.png)
-- [Q3: Reverse String](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3B-StringOperation/ReverseCharacterInString.png)
-- [Q4: Is Palindrome](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3B-StringOperation/PalindromeString.png)
-- [Q5: Remove Whitespaces](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3B-StringOperation/RemoveWhiteSpace.png)
+- [Q1: isNullOrEmpty](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3B-StringOperation/NullOrEmpty.png)
+- [Q2: Count Occurrences](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3B-StringOperation/CountWordsInString.png)
+- [Q3: Reverse String](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3B-StringOperation/ReverseCharacterInString.png)
+- [Q4: Is Palindrome](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3B-StringOperation/PalindromeString.png)
+- [Q5: Remove Whitespaces](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3B-StringOperation/RemoveWhiteSpace.png)
 
 ### 3C - Advanced String Handling
 
-- [Q6: Capitalize First Letters](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3C-StringOperations/CapitalizeFirst.png)
-- [Q7: Truncate String](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3C-StringOperations/TruncateString.png)
-- [Q8: Check Numeric](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3C-StringOperations/CheckNumericString.png)
-- [Q9: Generate Random String](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3C-StringOperations/RandomString.png)
-- [Q10: Count Words using Substring](https://github.com/Sumanth5690/JavaAssignment/blob/master/EXP3-StringOperation/3C-StringOperations/SubStringCount.png)
+- [Q6: Capitalize First Letters](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3C-StringOperations/CapitalizeFirst.png)
+- [Q7: Truncate String](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3C-StringOperations/TruncateString.png)
+- [Q8: Check Numeric](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3C-StringOperations/CheckNumericString.png)
+- [Q9: Generate Random String](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3C-StringOperations/RandomString.png)
+- [Q10: Count Words using Substring](https://github.com/Shreyas-git-05/advancedjavaassignment/blob/main/EXP3-StringOperation/3C-StringOperations/SubStringCount.png)
 
 ---
 
